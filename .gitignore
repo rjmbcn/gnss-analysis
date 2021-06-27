@@ -1,4 +1,9 @@
 
 .DS_Store
+<<<<<<< HEAD
 gnssutils/__pycache__/
 notebooks/.ipynb_checkpoints/
+=======
+notebooks/.ipynb_checkpoints/
+gnssutils/__pycache__/
+>>>>>>> main
